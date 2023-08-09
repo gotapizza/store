@@ -848,3 +848,21 @@
     	"invert": true
   }
 }]
+{
+  "name": "MacOS VM", 
+  "icon": "https://logowik.com/content/uploads/images/macos6983.jpg",
+  "type": "app", 
+  "data": {
+    "type": "IFrame", 
+    "url": "https://macos-web.app", 
+    "gallery": [
+      
+      "https://logowik.com/content/uploads/images/macos6983.jpg",
+      "https://logowik.com/content/uploads/images/macos6983.jpg",
+      "https://logowik.com/content/uploads/images/macos6983.jpg"
+    ],
+    "desc": "Mac OS", // 
+    "feat": "1.1 Mac OS", 
+    "invert": false
+  }
+}
